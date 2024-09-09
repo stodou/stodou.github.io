@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://stodou.github.io/iSF/sitemap.iSF.gz
